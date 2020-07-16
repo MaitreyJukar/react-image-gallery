@@ -2006,7 +2006,7 @@ Gallery.defaultProps = {
 	config: {},
 	isActive: false,
 	uploaderConfig: {
-		accept: '.png, .jpg, .jpeg'
+		accept: '.png, .jpg, .jpeg, .pdf'
 	},
 	showDimensions: false
 };
